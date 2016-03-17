@@ -1,0 +1,25 @@
+
+.container{
+  display: flex;
+  margin: auto;
+  justify-content: center;
+}
+
+.row {
+  flex-direction: row;
+}
+
+.pixel {
+  flex: 1;
+  border: gray solid 1px;
+  height: 10px;
+  width: 10px;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+ }
+
+ 
